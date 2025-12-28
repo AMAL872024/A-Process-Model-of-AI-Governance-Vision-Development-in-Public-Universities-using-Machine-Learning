@@ -1,5 +1,4 @@
 # A-Process-Model-of-AI-Governance-Vision-Development-in-Public-Universities-using-Machine-Learning
-<!doctype html>
 <html lang="en">
 <head>
   <meta charset="utf-8" />
@@ -135,12 +134,6 @@ conda install -c conda-forge pandas numpy scikit-learn joblib matplotlib openpyx
 <p>
   Do not upload sensitive institutional data. Use anonymised samples or
   exclude raw data using <code>.gitignore</code>.
-</p>
-
-<h2>License</h2>
-<p>
-  Choose an appropriate open-source license (e.g., MIT or Apache-2.0)
-  and add a <code>LICENSE</code> file.
 </p>
 
 <hr/>
