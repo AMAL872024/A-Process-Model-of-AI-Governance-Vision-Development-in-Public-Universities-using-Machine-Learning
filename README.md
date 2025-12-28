@@ -50,7 +50,7 @@
 │  ├─ ML_BestModel_VUTAI_VUTAI2_*.joblib
 │  └─ ML_BestModel_VUTAI_VUTAI3_*.joblib
 ├─ Results/                  # Exported figures and tables (SVG / PDF)
-└─ last_data.xlsx            # Example dataset (do not push sensitive data)
+         
 </code></pre>
 
 <h2>Requirements</h2>
